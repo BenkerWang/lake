@@ -160,6 +160,9 @@ Username/Password: test/test
 
 <br>
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBenkerWang%2Flake.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBenkerWang%2Flake?ref=badge_large)
+
 ## Data Sources We Currently Support<a id="data-source-plugins"></a>
 
 Below is a list of _data source plugins_ used to collect & enrich data from specific sources. Each has a `README.md` file with basic setup, troubleshooting, and metrics info.
@@ -345,6 +348,7 @@ This section list all the documents to help you contribute to the repo.
 
 ### Understand the Architecture of DevLake<a id="architecture"></a>
 ![devlake-architecture](https://user-images.githubusercontent.com/14050754/143292041-a4839bf1-ca46-462d-96da-2381c8aa0fed.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBenkerWang%2Flake.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBenkerWang%2Flake?ref=badge_shield)
 <p align="center">Architecture Diagram</p>
 
 ### Add a Plugin<a id="plugin"></a>
